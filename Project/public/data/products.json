@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 12340,
+      "price": 45000,
+      "thumbnail": "th.webp",
+      "title": "Oled TV "
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 25000,
+      "price": 30000,
+      "thumbnail": "airpurif.jpg",
+      "title": "Airpurifier"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "dryer.jpg",
+      "title": "Hair-Dryer"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 85,
+      "price": 100,
+      "thumbnail": "headphones.jpg",
+      "title": "Headphones bass boosted"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "laptops.jpg",
+      "title": "Laptop"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 27,
+      "price": 30,
+      "thumbnail": "LCD.jpg",
+      "title": "OLED Lcd"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "mobile.jpg",
+      "title": "Mobile Phones"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 85,
+      "price": 100,
+      "thumbnail": "Oven.jpg",
+      "title": "Oven"
+    }
+  ],
+  "items-category-1": [
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 1,
+      "price": 450,
+      "thumbnail": "refrigerator.jpg",
+      "title": "Refrigerator"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 27,
+      "price": 30,
+      "thumbnail": "dryer.jpg",
+      "title": "Hair Dryer"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "headphones.jpg",
+      "title": "Headphones"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 85,
+      "price": 100,
+      "thumbnail": "LCD.jpg",
+      "title": "OLED Lcd"
+    }
+  ],
+  "items-category-2": [
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "Oven.jpg",
+      "title": "Oven"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 27,
+      "price": 30,
+      "thumbnail": "laptops.jpg",
+      "title": "Laptops"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "mobile.jpg",
+      "title": "Mobile Phones"
+    }
+  ],
+  "items-category-3": [
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "airpurif.jpg",
+      "title": "Airpurifier"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 85,
+      "price": 100,
+      "thumbnail": "th.webp",
+      "title": "OLED Lcd"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 85,
+      "price": 100,
+      "thumbnail": "headphones.jpg",
+      "title": "Headphones bass boosted"
+    }
+  ],
+  "items-category-4": [
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "Oven.jpg",
+      "title": "Oven"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 340,
+      "price": 450,
+      "thumbnail": "washingmachine.jpg",
+      "title": "Washing machine"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 85,
+      "price": 100,
+      "thumbnail": "mobile.jpg",
+      "title": "Mobile Phones"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+      "discountedPrice": 27,
+      "price": 30,
+      "thumbnail": "LCD.jpg",
+      "title": "OLED Lcd"
+    }
+  ]
+}
